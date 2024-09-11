@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/%7Bcoffee-calculator-react%7D/static/css/main.1840108b.css",
+    "main.js": "/%7Bcoffee-calculator-react%7D/static/js/main.e1005a9b.js",
+    "static/js/453.0a1a6efc.chunk.js": "/%7Bcoffee-calculator-react%7D/static/js/453.0a1a6efc.chunk.js",
+    "index.html": "/%7Bcoffee-calculator-react%7D/index.html",
+    "main.1840108b.css.map": "/%7Bcoffee-calculator-react%7D/static/css/main.1840108b.css.map",
+    "main.e1005a9b.js.map": "/%7Bcoffee-calculator-react%7D/static/js/main.e1005a9b.js.map",
+    "453.0a1a6efc.chunk.js.map": "/%7Bcoffee-calculator-react%7D/static/js/453.0a1a6efc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1840108b.css",
+    "static/js/main.e1005a9b.js"
+  ]
+}
