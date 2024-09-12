@@ -1,70 +1,47 @@
-# Getting Started with Create React App
+# Coffee Calculator
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a **Coffee Calculator** built with React, allowing users to calculate coffee brewing metrics such as **TDS** (Total Dissolved Solids), **Extraction Yield**, and **Brew Ratio**. The results will help determine if the coffee is too weak, too strong, or in perfect balance.
+
+## Getting Started
+
+### Usage
+1. **원두의 양(g)**: 원두의 양을 입력하세요.
+2. **추출된 커피의 무게(g)**: 추출 후 커피의 무게를 입력하세요.
+3. **TDS(%)**: 추출된 커피의 총 용존 고형물(TDS) 값을 입력하세요.
+4. **푸어 물 양(g)**: 푸어 과정에서 사용된 물의 양을 입력하세요.
+5. **계산하기** 버튼을 눌러 커피 수율과 추출 비율을 확인할 수 있습니다.
+
+### Demo Link
+The calculator is available live on GitHub Pages. You can access it here:
+
+[Coffee Calculator](https://cheshire0105.github.io/coffee-calculator-react)
+
+### Example Results
+- **수율**: 커피에서 추출된 고형 성분의 비율을 확인할 수 있습니다.
+- **추출 비율**: 원두와 물의 비율로, 이상적인 추출 비율을 확인할 수 있습니다.
+- **푸어 비율**: 물의 양 대비 원두의 비율을 확인할 수 있습니다.
+
+---
 
 ## Available Scripts
 
 In the project directory, you can run:
 
 ### `npm start`
-
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
 ### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Launches the test runner in the interactive watch mode.
 
 ### `npm run build`
+Builds the app for production to the `build` folder.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### `npm run deploy`
+Deploys the app to GitHub Pages.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Deployment
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This project is deployed on [GitHub Pages](https://cheshire0105.github.io/coffee-calculator-react).
