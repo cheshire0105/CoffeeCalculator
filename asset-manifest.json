@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/coffee-calculator-react/static/css/main.edc4de74.css",
-    "main.js": "/coffee-calculator-react/static/js/main.01867eeb.js",
-    "static/js/453.0a1a6efc.chunk.js": "/coffee-calculator-react/static/js/453.0a1a6efc.chunk.js",
-    "index.html": "/coffee-calculator-react/index.html",
-    "main.edc4de74.css.map": "/coffee-calculator-react/static/css/main.edc4de74.css.map",
-    "main.01867eeb.js.map": "/coffee-calculator-react/static/js/main.01867eeb.js.map",
-    "453.0a1a6efc.chunk.js.map": "/coffee-calculator-react/static/js/453.0a1a6efc.chunk.js.map"
+    "main.css": "/CoffeeCalculator/static/css/main.edc4de74.css",
+    "main.js": "/CoffeeCalculator/static/js/main.5ad39afe.js",
+    "static/js/453.0a1a6efc.chunk.js": "/CoffeeCalculator/static/js/453.0a1a6efc.chunk.js",
+    "index.html": "/CoffeeCalculator/index.html",
+    "main.edc4de74.css.map": "/CoffeeCalculator/static/css/main.edc4de74.css.map",
+    "main.5ad39afe.js.map": "/CoffeeCalculator/static/js/main.5ad39afe.js.map",
+    "453.0a1a6efc.chunk.js.map": "/CoffeeCalculator/static/js/453.0a1a6efc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.edc4de74.css",
-    "static/js/main.01867eeb.js"
+    "static/js/main.5ad39afe.js"
   ]
 }
