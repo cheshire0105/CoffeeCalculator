@@ -14,7 +14,7 @@ This project is a **Coffee Calculator** built with React, allowing users to calc
 ### Link
 The calculator is available live on GitHub Pages. You can access it here:
 
-[Coffee Calculator](https://cheshire0105.github.io/coffee-calculator-react)
+[Coffee Calculator](https://cheshire0105.github.io/CoffeeCalculator)
 
 ### Example Results
 - **수율**: 커피에서 추출된 고형 성분의 비율을 확인할 수 있습니다.
