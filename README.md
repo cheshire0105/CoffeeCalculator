@@ -11,11 +11,6 @@ This project is a **Coffee Calculator** built with React, allowing users to calc
 4. **푸어 물 양(g)**: 푸어 과정에서 사용된 물의 양을 입력하세요.
 5. **계산하기** 버튼을 눌러 커피 수율과 추출 비율을 확인할 수 있습니다.
 
-### Link
-The calculator is available live on GitHub Pages. You can access it here:
-
-[Coffee Calculator](https://cheshire0105.github.io/CoffeeCalculator)
-
 ### Example Results
 - **수율**: 커피에서 추출된 고형 성분의 비율을 확인할 수 있습니다.
 - **추출 비율**: 원두와 물의 비율로, 이상적인 추출 비율을 확인할 수 있습니다.
